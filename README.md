@@ -31,7 +31,7 @@
     Reference
   </h2>
   <div align="left">
-    <h3>임계치 구현 기반 부채널분석 대응기법 효율성 분석</h3>
+    <h3>Title : 임계치 구현 기반 부채널분석 대응기법 효율성 분석 (최종연구보고서)</h3>
     제출기관 : 국가보안기술연구소<br/>
     위탁연구기관 : 우석대학교 산학협력단<br/>
     <h3>Title : A Study on Vulnerabilities of Linux Password and Countermeasures</h3>
