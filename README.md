@@ -1,6 +1,6 @@
 
 <header>
-  <h1 align="left">Kim, Sang Hun</h1>
+  <h1 align="left">Hi! Kim, Sang Hun, Nice to meet you.</h1>
 </header>
 <div align="center">
   
