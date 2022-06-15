@@ -30,7 +30,11 @@
   <h2>
     Reference
   </h2>
+  <div align="left">
+  <h3>Title : Shadow 파일 조작을 통한 리눅스 Sudoer의 위장공격에 대한 연구</h3>
+    (A Study on Impersonation Attack of Linux Sudoers Through Shadow File Manipulation)
   DOI : 10.3745/KTCCS.2020.9.7.149M
+  </div>
 <h2 align="left">BOJ Score</h2>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaa0529)](https://solved.ac/yaa0529)
