@@ -1,7 +1,7 @@
 
 <header>
   <h1 align="left">Hi! I'm Kim, Sang Hun. Nice to meet U. 😊</h1>
-  Cryptography, System Security, System Programming, Web Programing
+  I like Cryptography, System Security, System Programming, Web Programing etc,,
 </header>
 <div align="center">
   
