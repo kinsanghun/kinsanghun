@@ -1,16 +1,18 @@
 
 <header>
-  <h1 align="left">Hi! Kim, Sang Hun, Nice to meet you.</h1>
+  <h1 align="left">Hi! I'm Kim, Sang Hun. Nice to meet U. :)</h1>
 </header>
 <div align="center">
   
-  <h2 align="left">Profile</h2>
+  <h2 align="left">Profile 🐤</h2>
   <div align="left">
-  NAME : KIM SANGHUN
+  🧔 NAME : KIM SANGHUN
   
-  University : Woosuk Univ.
+  📔 University : Woosuk Univ.
     
-  E-mail : schmid_@kakao.com
+  🖥️ Develop OS : Windows, Linux, Mac OS 
+    
+  💌 E-mail : schmid_@kakao.com
   </div>
 
   
