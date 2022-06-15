@@ -27,14 +27,20 @@
 <img src="https://camo.githubusercontent.com/9f47ab44c8425fb370779a070dee85979d5ec780212db4cc44c203de2ee4c384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/96267d8a69067065ffe11ac12baa0d9206641de7eb74225b62fa93f78631775a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973716c2d4536423931453f7374796c653d666c61742d737175617265266c6f676f3d4d7953716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&amp;logo=MySql&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/997205b77cd7eac35fdae833c285ec8c87d0d45e26f5b5482a61f391a3733844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
-  <h2>
+  <h2 align="left">
     Reference
   </h2>
   <div align="left">
+    <h3>임계치 구현 기반 부채널분석 대응기법 효율성 분석</h3>
+    제출기관 : 국가보안기술연구소<br/>
+    위탁연구기관 : 우석대학교 산학협력단<br/>
+    <h3>Title : A Study on Vulnerabilities of Linux Password and Countermeasures</h3>
+    (S. Kim and T. Cho, "A Study on Vulnerabilities of Linux Password and Countermeasures," CUTE 2019. paper No.9, 2019.)<br/>
+    DOI: 10.1007/978-981-15-9343-7_9<br/>
   <h3>Title : Shadow 파일 조작을 통한 리눅스 Sudoer의 위장공격에 대한 연구</h3>
     (A Study on Impersonation Attack of Linux Sudoers Through Shadow File Manipulation)<br/>
   DOI : 10.3745/KTCCS.2020.9.7.149M<br/>
-    발행기관 : 한국정보처리학회<br/>
+    
   </div>
 <h2 align="left">BOJ Score</h2>
   
