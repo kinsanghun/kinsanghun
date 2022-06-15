@@ -1,6 +1,7 @@
 
 <header>
   <h1 align="left">Hi! I'm Kim, Sang Hun. Nice to meet U. :)</h1>
+  Developer
 </header>
 <div align="center">
   
