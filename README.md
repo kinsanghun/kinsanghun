@@ -32,8 +32,9 @@
   </h2>
   <div align="left">
   <h3>Title : Shadow 파일 조작을 통한 리눅스 Sudoer의 위장공격에 대한 연구</h3>
-    (A Study on Impersonation Attack of Linux Sudoers Through Shadow File Manipulation)
-  DOI : 10.3745/KTCCS.2020.9.7.149M
+    (A Study on Impersonation Attack of Linux Sudoers Through Shadow File Manipulation)<br/>
+  DOI : 10.3745/KTCCS.2020.9.7.149M<br/>
+    발행기관 : 한국정보처리학회<br/>
   </div>
 <h2 align="left">BOJ Score</h2>
   
