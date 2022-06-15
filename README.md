@@ -1,9 +1,20 @@
 
 <header>
-  <h1 align="center">Kim, Sang Hun</h1>
+  <h1 align="left">Kim, Sang Hun</h1>
 </header>
 <div align="center">
-  <h3>Tech Stack</h3>
+  
+  <h2 align="left">Profile</h2>
+  <div align="left">
+  NAME : KIM SANGHUN
+  
+  University : Woosuk Univ.
+    
+  E-mail : schmid_@kakao.com
+  </div>
+
+  
+  <h2 align="left">Tech Stack</h2>
   
 <a href="https://github.com/kinsanghun"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkinsanghun&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 <img src="https://camo.githubusercontent.com/dd7559df3804c36eeeb5da15bb3445ea66682b8ffc736e2dc737e1975056cbf4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-3766AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;">
@@ -16,7 +27,7 @@
 <img src="https://camo.githubusercontent.com/96267d8a69067065ffe11ac12baa0d9206641de7eb74225b62fa93f78631775a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973716c2d4536423931453f7374796c653d666c61742d737175617265266c6f676f3d4d7953716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&amp;logo=MySql&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/997205b77cd7eac35fdae833c285ec8c87d0d45e26f5b5482a61f391a3733844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
 
-<h3>BOJ Score</h3>
+<h2 align="left">BOJ Score</h2>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaa0529)](https://solved.ac/yaa0529)
   
