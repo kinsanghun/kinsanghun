@@ -7,6 +7,7 @@
   <h2 align="left">Profile 🐤</h2>
   <div align="left">
   🧔 NAME : KIM SANGHUN<br/>
+  🍼 Birth Date : 1997.05.29<br/>
   📔 University : Woosuk Univ.<br/>
   🖥️ Develop OS : Windows, Linux, Mac OS <br/>
   💌 E-mail : schmid_@kakao.com<br/>
