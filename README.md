@@ -27,7 +27,10 @@
 <img src="https://camo.githubusercontent.com/9f47ab44c8425fb370779a070dee85979d5ec780212db4cc44c203de2ee4c384/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3039324532303f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/96267d8a69067065ffe11ac12baa0d9206641de7eb74225b62fa93f78631775a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7973716c2d4536423931453f7374796c653d666c61742d737175617265266c6f676f3d4d7953716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&amp;logo=MySql&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/997205b77cd7eac35fdae833c285ec8c87d0d45e26f5b5482a61f391a3733844/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/css-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;">
-
+  <h2>
+    Reference
+  </h2>
+  DOI : 10.3745/KTCCS.2020.9.7.149M
 <h2 align="left">BOJ Score</h2>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaa0529)](https://solved.ac/yaa0529)
