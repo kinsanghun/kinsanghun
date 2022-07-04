@@ -16,7 +16,7 @@
 
 <h2 align="left">Projects and activities :art: </h2>
 <div align="left">
-  <h3>Title : Cuckoo Sandbox Install menual 작성 및 악성코드 분석 공부</h3>
+  <h3>Title : Cuckoo Sandbox Installation menual 작성 및 악성코드 분석 공부</h3>
   <div>
     content : cuckoo sandbox 설치 메뉴얼 및 기본적인 사용방법과 ollydbg를 이용한 리버싱 분석 기초, PE구조, Splunk 메뉴얼을 레포트로 작성.
     <a href="https://docs.google.com/document/d/1eKp1-VhynLuZwwrGqjoxXOTseb9v9czm/edit?usp=sharing&ouid=113065321955897239924&rtpof=true&sd=true">Download Report</a>
@@ -26,6 +26,11 @@
   <div>
     content : 포렌식 시나리오를 직접 구상 후 시나리오에 사용될 서버와 망을 직접 구현하고 직접 침해사고와 포렌식을 시연한 것을 레포트로 작성. 
     <a href="https://docs.google.com/document/d/1mU_YX5jmlXo_c9D9ZjwsFSiOHPM9z_bK/edit?usp=sharing&ouid=113065321955897239924&rtpof=true&sd=true">Download Report</a>
+  </div>
+  <h3>Title : Investigate Bluetooth Protocols</h3>
+  <div>
+    content : Bluetooth에서 가장 많이 사용하는 프로토콜 조사하여 문서로 작성.
+    <a href="https://docs.google.com/spreadsheets/d/1y9ovRLvTf1D0Wn3HSdwWGvKkzlFLjKFA/edit?usp=sharing&ouid=113065321955897239924&rtpof=true&sd=true">Download File</a>
   </div>
 </div>
   
