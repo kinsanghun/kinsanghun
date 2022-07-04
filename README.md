@@ -29,9 +29,15 @@
   </div>
   <h3>Title : Investigate Bluetooth Protocols</h3>
   <div>
-    content : Bluetooth에서 가장 많이 사용하는 프로토콜 조사하여 문서로 작성.
+    content : Bluetooth에서 가장 많이 사용하는 프로토콜 조사하여 문서로 작성.<br/>
     <a href="https://docs.google.com/spreadsheets/d/1y9ovRLvTf1D0Wn3HSdwWGvKkzlFLjKFA/edit?usp=sharing&ouid=113065321955897239924&rtpof=true&sd=true">Download File</a>
   </div>
+  <h3>Title : Study Android vulnerability analysis and countermeasures</h3>
+  <div>
+    content : Android의 알려진 취약점을 인지하고 대응방안을 학습하여 보고서로 작성.<br/>
+    <a href="https://drive.google.com/file/d/1S-IhbCHpwJ-FIImtk-3d_zweP2p42BU_/view?usp=sharing">Download Report</a>
+  </div>
+  
 </div>
   
   <h2 align="left">Tech Stack</h2>
