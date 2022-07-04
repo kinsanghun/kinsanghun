@@ -14,6 +14,10 @@
   💌 E-mail : schmid_@kakao.com<br/>
   </div>
 
+<h2 align="left">Projects and activities :art: </h2>
+<div align="left">
+
+</div>
   
   <h2 align="left">Tech Stack</h2>
   I can this tech<br/><br/>
