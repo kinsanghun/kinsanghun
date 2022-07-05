@@ -16,6 +16,12 @@
 
 <h2 align="left">Projects and activities :art: </h2>
 <div align="left">
+  <h3>군복무 🐧</h3>
+  <div>
+    복무기간 : 2020.08.24 ~ 2022.02.18<br/>
+    근무지 : 7군단 107정보통신단<br/>
+    직책 : 정보보호병<br/>
+  </div>
   <h3>Title : Cuckoo Sandbox Installation menual 작성 및 악성코드 분석 공부</h3>
   <div>
     content : cuckoo sandbox 설치 메뉴얼 및 기본적인 사용방법과 ollydbg를 이용한 리버싱 분석 기초, PE구조, Splunk 메뉴얼을 레포트로 작성.
