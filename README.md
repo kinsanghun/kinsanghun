@@ -35,7 +35,7 @@
   <br/>
 <h2 align="left">Projects and activities :art: </h2>
 <div align="left">
-  <h3>Title : Cuckoo Sandbox Installation menual 작성 및 악성코드 분석 공부</h3>
+  <h3>Title : Cuckoo Sandbox Installation manual 작성 및 악성코드 분석 공부</h3>
   <div>
     content : cuckoo sandbox 설치 메뉴얼 및 기본적인 사용방법과 ollydbg를 이용한 리버싱 분석 기초, PE구조, Splunk 메뉴얼을 레포트로 작성.
     <a href="https://docs.google.com/document/d/1eKp1-VhynLuZwwrGqjoxXOTseb9v9czm/edit?usp=sharing&ouid=113065321955897239924&rtpof=true&sd=true">Download Report</a>
