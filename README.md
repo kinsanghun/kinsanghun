@@ -38,7 +38,17 @@
   <h3>Title : 공동구매 사이트 구축</h3>
   <div>
     content : Rest API기반의 Spring Boot, React를 이용한 공동구매 사이트 제작
-    <a href="http://kimsanghun.kr">Download View</a>
+    <a href="http://kimsanghun.kr">Learn More</a>
+  </div>
+  <h3>Title : React Component Typescript</h3>
+  <div>
+    content : TypeScript 기반의 React를 이용한 사이트입니다. React기반의 프론트앤드 작업물을 공유하는 사이트를 만들고싶어서 시작했습니다.
+    <a href="http://react-component.com">Learn More</a>
+  </div>
+  <h3>Title : 쿠우쿠우 송천점 관리사이트</h3>
+  <div>
+    content : Django, ajax, jQuery를 사용하여 전라북도 전주시에 있는 쿠우쿠우 송천점의 관리프로그램을 개발했습니다. 
+    <a href="http://kimsanghun.kr">Learn More</a>
   </div>
   <h3>Title : Cuckoo Sandbox Installation manual 작성 및 악성코드 분석 공부</h3>
   <div>
